@@ -1,7 +1,7 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Frank M 👩‍💻</h1>
-<br>
+
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /><h1>Conectéme a través de:</h1>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Frank+M%F0%9F%91%8B;Desarrollador+Full-Stack;Ingeniero+Multifuncional;Freelancer;Proyecto+en+colaborativo;Trabajo+independiente" alt="Headline" />
+  <h1>Conectéme a través de:</h1>
     </div>     </br>                                                
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -24,13 +24,13 @@
   🤵 Acerca de mí:
 
   
-- ✍ puedes ver CV aqui [Resume]
+- ✍ Puedes ver CV aqui [Resume](https://portfolio-xxhw.onrender.com/static/portfolio/Frank_MedinaBola%C3%83%C2%B1os_CV.d966f6218a91.pdf)
   
 - 💻 Soy un desarrollador web full stack
   
 - 🎨 Soy un diseñador de UI autodidacta
   
-- 🌱 Puedes ver alguno de mis proyectos en.[my portfolio](https://portfolio-xxhw.onrender.com)
+- 🌱 Puedes ver alguno de mis proyectos en.[Portfolio](https://portfolio-xxhw.onrender.com)
   
 - 👯 Estoy buscando colaborar en proyecto de desarollo de software
   
