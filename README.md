@@ -36,7 +36,7 @@
   
 - 📫 Contáctame: frankmedinas1997@gmail.com
   
-- ⚡ Dato curioso: Me fusta tocar piano
+- ⚡ Dato curioso: Me gusta tocar el piano
 
 <br>
 
