@@ -1,11 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Frank M 👩‍💻</h1>
 <br>
-
-💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
-
-
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /></br> <h1>Conectéme a través de:</h1>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /><h1>Conectéme a través de:</h1>
     </div>     </br>                                                
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -14,26 +10,32 @@
         <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
         <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
-    <div align=left>
-        <br>
-        <p>
+    <div align=left width="500" height="320">
+          <p></br>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                Me especializo en Back-End y Frontend y tengo experiencia trabajando con Php puro. Soy bueno en algoritmos, estructuras de datos, sistemas de bases de datos, programación orientada a objetos, patrones de diseño  software MVC y habilidades de resolución de problemas.💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.<br>
+                Me apasiona aprender , todas las tecnologías de back-end, Web 3, Linux, virtualización, computación en la nube y DevOps.<br>
+                Ingeniero orientado a los detalles, responsable y comprometido, con un espíritu de hacer las cosas a tiempo y de alta calidad. Aprendo por mí mismo y rápido, automotivado y sociable.
             </strong>
         </p>
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
   🤵 Acerca de mí:
+
+  
 - ✍ puedes ver CV aqui [Resume]
+  
 - 💻 Soy un desarrollador web full stack
+  
 - 🎨 Soy un diseñador de UI autodidacta
+  
 - 🌱 Puedes ver alguno de mis proyectos en.[my portfolio](https://portfolio-xxhw.onrender.com)
+  
 - 👯 Estoy buscando colaborar en proyecto de desarollo de software
+  
 - 📫 Contáctame: frankmedinas1997@gmail.com
+  
 - ⚡ Dato curioso: Me fusta tocar piano
 
 <br>
