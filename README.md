@@ -1,199 +1,97 @@
+<!-- Encabezado animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Frank+👋;Desarrollador+Full-Stack;Ingeniero+Multifuncional;Freelancer;Trabajo+en+equipo;Independiente+y+autodidacta" alt="Encabezado animado" />
+</div>
 
- <div align=center> 
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Frank+M%F0%9F%91%8B;Desarrollador+Full-Stack;Ingeniero+Multifuncional;Freelancer;Proyecto+en+colaborativo;Trabajo+independiente" alt="Headline" />
-    </div>                                                  
-    <div align=center>
-        <h3>Contacteme desde.</h3>
-<p align="center">
-	<a href="mailto:frankmedinasq997@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/fmedinab"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/932351089"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.facebook.com/FranjDemoOficial"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/franjdemo/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
- <a href="https://www.linkedin.com/in/frank-medina-bola%C3%A3%E2%80%98os-a3a65b325/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://msng.link/o/"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-</p>
-    </div>
-    <div align=left width="500" height="320">
-          <p></br>
-            <strong>
-                Me especializo en Back-End y Frontend y tengo experiencia trabajando con Php puro. Soy bueno en algoritmos, estructuras de datos, sistemas de bases de datos, programación orientada a objetos, patrones de diseño  software MVC y habilidades de resolución de problemas.💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.<br>
-                Me apasiona aprender , todas las tecnologías de back-end, Web 3, Linux, virtualización, computación en la nube y DevOps.<br>
-                Ingeniero orientado a los detalles, responsable y comprometido, con un espíritu de hacer las cosas a tiempo y de alta calidad. Aprendo por mí mismo y rápido, automotivado y sociable.
-            </strong>
-        </p>
-<br>
+<!-- Contacto -->
+<div align="center">
+  <h3>Contáctame:</h3>
+  <p>
+    <a href="mailto:frankmedinasq997@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://github.com/fmedinab" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://wa.me/932351089" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://www.facebook.com/FranjDemoOficial" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/franjdemo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.linkedin.com/in/frank-medina-bola%C3%B1os-a3a65b325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-  🤵 Acerca de mí:
+<!-- Acerca de mí -->
+<div align="left">
+  <img align="right" alt="GIF de trabajo" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" />
+  <p>
+    <strong>
+      Soy un desarrollador Full-Stack con experiencia en PHP puro, backend y frontend. Manejo estructuras de datos, algoritmos, bases de datos, POO, MVC y resolución de problemas.<br><br>
+      Me apasiona explorar tecnologías como Web3, DevOps, Cloud Computing y Linux. Trabajo de forma responsable, autodidacta y colaborativa. 📚<br><br>
+    </strong>
+  </p>
 
-  
-- ✍ Puedes ver CV aqui [Resume](https://portfolio-xxhw.onrender.com/static/portfolio/Frank_MedinaBola%C3%83%C2%B1os_CV.d966f6218a91.pdf)
-  
-- 💻 Soy un desarrollador web 
-  
-- 🎨 Soy un diseñador de UI autodidacta
-  
-- 🌱 Puedes ver alguno de mis proyectos en.[Portfolio](https://portfolio-xxhw.onrender.com)
-  
-- 👯 Estoy buscando colaborar en proyecto de desarollo de software
-  
-- 📫 Contáctame: frankmedinas1997@gmail.com
-  
-- ⚡ Dato curioso: Me gusta tocar el piano
+  <ul>
+    <li>📄 <strong>CV:</strong> <a href="https://portfolio-xxhw.onrender.com/static/portfolio/Frank_MedinaBola%C3%83%C2%B1os_CV.d966f6218a91.pdf" target="_blank">Ver Curriculum</a></li>
+    <li>🌐 <strong>Portafolio:</strong> <a href="https://portfolio-xxhw.onrender.com" target="_blank">Ver proyectos</a></li>
+    <li>🎨 <strong>UI autodidacta</strong></li>
+    <li>🤝 <strong>Buscando colaborar en proyectos de desarrollo</strong></li>
+    <li>📬 <strong>Email directo:</strong> frankmedinas1997@gmail.com</li>
+    <li>🎹 <strong>Dato curioso:</strong> Me gusta tocar el piano</li>
+  </ul>
+</div>
 
-<br>
-
-
-### 🚀 Mis tecnologias favoritos:
-
+<!-- Tecnologías favoritas -->
+<h3>🚀 Tecnologías favoritas</h3>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/fluency/48/wordpress.png" alt="WordPress" />
 </p>
 
-<br>
+<!-- Habilidades -->
+<h3>🛠️ Habilidades técnicas</h3>
 
-# 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
+<h4>👉 Lenguajes de programación</h4>
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+  <img src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" alt="PHP" />
 </p>
 
-<br/>
+<h4>👉 Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
+<h4>👉 Bases de datos y cloud</h4>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?logo=github&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white" alt="Firebase" />
+</p>
 
+<h4>👉 Diseño gráfico</h4>
+<p>
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Indesign-%23e749a0.svg?logo=adobeindesign&logoColor=white" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Lightroom-%2300f.svg?logo=adobelightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-%2300f.svg?logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white" alt="Canva" />
+</p>
 
-
-##### Actualmento estoy escuchando:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
-📊 Estadísticas de Github (Ampliar para ver)
-
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikatewary&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikatewary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
-
-   
-
-
-
-
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
+<h4>👉 Software y herramientas</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CodePen-000000.svg?logo=codepen&logoColor=white" alt="Codepen" />
+  <img src="https://img.shields.io/badge/Colab-%2300b56a.svg?logo=google-colab&logoColor=white" alt="Colab" />
+</p>
